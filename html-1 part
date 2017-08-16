@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<br />
+<br />
+<br />
+<br />
+<h1 style="text-align:center">2017.8.5开始前端学习</h1>
+<hr />
+<!--[if IE 8]>
+    .... some HTML here ....
+<![endif]-->
+
+<!-- 本段为注释 --> 
+
+<head>
+<style type="text/css">
+h1 {color: red}
+p {color: green}
+</style>
+</head>
+
+<body>
+<h1>header 1</h1>
+<p>A paragraph.</p>
+</body>
+
+<body>
+<h1>header 2</h1>
+<p>B paragraph.< ></p>
+</body>
+
+
+<p>这是注释</p>
+<p style="text-align:left">2017.8.5开始前端学习,add oil!new start,yeah!</p>
+<br />
+<br />
+<p>This is<br />a para<br />graph with line breaks</p>
+<body style="background-color:pink">
+<p style="text-align:center;font-size:30px;font-family:verdana;color:purple">春眠<br />不觉晓</p>
+<p style="font-size:30px;font-family:Times;color:green">处处<br />闻啼鸟</p>
+
+  粒粒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;皆辛苦
+  
+<p><var>E</var> = <var>m</var> <var>c</var><sup>2</sup></p>
+<br/>
+<br/>
+<p>一打有 <del>二十</del> <ins>十二</ins> 件。</p>
+<p>一打有 <del>二十</del> <big>十二</big>件。</p>
+
+<img border="10" src="http://www.w3school.com.cn/i/tulip_fringed_family.jpg" alt="Tulip" width="200" height="200">
+<br/>
+<address>
+	written by <a href="www.baidu.com">wangcx</a><br/>
+	our address is：<br/>
+	pudong new district<br/>
+	27,building1<br/>
+	shanghai
+</address>
+
+<bdo dir="rtl">
+hello world
+</bdo>
+<br/>
+<bdo dir="utd">
+Here is some Hebrew text
+</bdo>
+<blockquote>
+	小燕子穿花衣<br/>年年春天来这里
+</blockquote>
+<q>
+	小燕子穿花衣<br/>年年春天来这里
+</q>
+
+<p><del>小燕子穿红衣</del>,<ins>小燕子穿花衣</ins></p>>
+
+<p>一打有 <e>二十</e> <ins>十二</ins> 件。</p>
+
+<e>二十</e>
+
+</html>
+</body>
